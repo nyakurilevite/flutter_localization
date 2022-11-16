@@ -1,0 +1,14 @@
+{
+    "title":"Welcome to BlogApp",
+    "create_post":"Create Post",
+    "update_post":"Update Post",
+    "post_title":"Post Title",
+    "enter_post_title":"Enter post title",
+    "enter_post_description":"Enter post title",
+    "post_description":"Post Description",
+    "post_title_required":"Post title required",
+    "post_description_required":"Post description required",
+    "view_post":"View Post",
+    "save":"Save",
+    "update":"Update"
+}

@@ -1,0 +1,15 @@
+
+{
+     "title": "مرحبًا بك في BlogApp" ,
+     "create_post": "إنشاء مشاركة",
+     "update_post": "تحديث النشر",
+     "post_title": "عنوان المشاركة",
+     "enter_post_title": "أدخل عنوان المنشور" ,
+     "enter_post_description": "أدخل عنوان المنشور" ,
+     "post_description": "وصف المشاركة" ,
+     "post_title_required": "عنوان المشاركة مطلوب" ,
+     "post_description_required": "وصف المشاركة مطلوب" ,
+     "view_post": "عرض المشاركة",
+     "save": "حفظ",
+     "update": "تحديث"
+}

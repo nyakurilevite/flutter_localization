@@ -1,0 +1,14 @@
+{
+    "title":"Bienvenue sur BlogApp",
+     "create_post":"Créer un message",
+     "update_post":"Mettre à jour l'article",
+     "post_title":"Titre de l'article",
+     "post_description":"Description de l'article",
+     "enter_post_title":"Entrez le titre du message",
+     "enter_post_description":"Entrez le titre du message",
+     "post_title_required":"Titre du message requis",
+     "post_description_required":"Description de l'article requise",
+     "view_post":"Voir le message",
+     "save":"Enregistrer",
+     "update": "Mettre à jour"
+}
