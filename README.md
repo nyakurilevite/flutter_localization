@@ -4,7 +4,7 @@ Hi Flutter developers, many developers are still wondering how to auto translate
 
 ## Translating in action
 
-![Translating in action](https://github.com/nyakurilevite/flutter_localization/blob/main/assets/images/translation.gif=200x300)
+![Translating in action](https://github.com/nyakurilevite/flutter_localization/blob/main/assets/images/translation.gif =200x300)
 
 
 
