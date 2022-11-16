@@ -1,17 +1,10 @@
-# blogapp
+# Flutter Localization Demo
 
-A new Flutter project.
+Hi Flutter developers, many developers are still wondering how to auto translate app from JSON files. In this demo project, you can find how to translate the whole application and store the selected language on the device using the SharedPreference plugin. I hope this repository will help you.
 
-## Getting Started
+## Translating in action
 
-This project is a starting point for a Flutter application.
+![Translating in action](https://github.com/nyakurilevite/flutter_localization/blob/main/assets/images/translation.gif =200x300)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-https://github.com/nyakurilevite/flutter_localization/blob/main/assets/images/Screen%20Shot%202022-11-16%20at%2014.00.30.png
